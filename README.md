@@ -1,9 +1,9 @@
 # Função Lambda: Envio de E-mail com AWS SES
 
-## 📌 Descrição
+## Descrição
 Essa função Lambda envia e-mails utilizando o Amazon SES. Ela é escrita em Python e foi criada com foco em simplicidade e praticidade.
 
-## 📥 Entrada esperada (event)
+## Entrada esperada (event)
 ```json
 {
   "to_email": "destinatario@example.com",
