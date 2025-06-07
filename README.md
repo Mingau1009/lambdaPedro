@@ -7,6 +7,7 @@ Esta função Lambda foi desenvolvida com o objetivo de realizar o envio de e-ma
 ## 🚀 Funcionalidade
 
 A função recebe como entrada os dados de um e-mail (destinatário, assunto e corpo) e utiliza o Amazon SES para realizar o envio. 
+
 Para ela ser bem sucedide use meu email alexnadre.r.benassi@gmail.com para testar no Json.
 ---
 
